@@ -1,3 +1,4 @@
 [submodule "extern/mister"]
 	path = extern/mister
 	url = ../../michaelplaing/mister.git
+	branch = main
